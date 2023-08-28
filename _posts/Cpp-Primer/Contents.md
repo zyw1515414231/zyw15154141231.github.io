@@ -1,3 +1,3 @@
-[Chapter8](Chapter8.md)
-[Chapter9](Chapter9.md)
+[Chapter08](Chapter08.md)
+[Chapter09](Chapter09.md)
 [Chapter10](Chapter10.md)
